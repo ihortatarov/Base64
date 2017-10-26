@@ -1,0 +1,16 @@
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\bin\Debug\Base64Converter.exe
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\bin\Debug\Base64Converter.pdb
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\obj\x86\Debug\Base64ConverterCS.csprojResolveAssemblyReference.cache
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\obj\x86\Debug\Example.CmdResources.resources
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\obj\x86\Debug\Base64ConverterCS.csproj.GenerateResource.Cache
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\obj\x86\Debug\Base64Converter.exe
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\obj\x86\Debug\Base64Converter.pdb
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\bin\Debug\Base64Converter.exe.config
+D:\_Payloads_and_FPRs\dotnet\For_MSBuild(sln)\VS2017_slns\Base64Converter(VS2015+.net4.5.2)\Base64ConverterCS\bin\Debug\Base64Converter.exe.config
+D:\_Payloads_and_FPRs\dotnet\For_MSBuild(sln)\VS2017_slns\Base64Converter(VS2015+.net4.5.2)\Base64ConverterCS\bin\Debug\Base64Converter.exe
+D:\_Payloads_and_FPRs\dotnet\For_MSBuild(sln)\VS2017_slns\Base64Converter(VS2015+.net4.5.2)\Base64ConverterCS\bin\Debug\Base64Converter.pdb
+D:\_Payloads_and_FPRs\dotnet\For_MSBuild(sln)\VS2017_slns\Base64Converter(VS2015+.net4.5.2)\Base64ConverterCS\obj\x86\Debug\Base64ConverterCS.csprojResolveAssemblyReference.cache
+D:\_Payloads_and_FPRs\dotnet\For_MSBuild(sln)\VS2017_slns\Base64Converter(VS2015+.net4.5.2)\Base64ConverterCS\obj\x86\Debug\Example.CmdResources.resources
+D:\_Payloads_and_FPRs\dotnet\For_MSBuild(sln)\VS2017_slns\Base64Converter(VS2015+.net4.5.2)\Base64ConverterCS\obj\x86\Debug\Base64ConverterCS.csproj.GenerateResource.Cache
+D:\_Payloads_and_FPRs\dotnet\For_MSBuild(sln)\VS2017_slns\Base64Converter(VS2015+.net4.5.2)\Base64ConverterCS\obj\x86\Debug\Base64Converter.exe
+D:\_Payloads_and_FPRs\dotnet\For_MSBuild(sln)\VS2017_slns\Base64Converter(VS2015+.net4.5.2)\Base64ConverterCS\obj\x86\Debug\Base64Converter.pdb

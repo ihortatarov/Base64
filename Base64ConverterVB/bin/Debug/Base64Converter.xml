@@ -1,0 +1,95 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Base64Converter
+</name>
+</assembly>
+<members>
+<member name="T:Example.My.Resources.CmdResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Example.My.Resources.CmdResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Example.My.Resources.CmdResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Example.My.Resources.CmdResources.AccessException">
+<summary>
+  Looks up a localized string similar to Access to {0} is not authorized by the operating system..
+</summary>
+</member>
+<member name="P:Example.My.Resources.CmdResources.AppName">
+<summary>
+  Looks up a localized string similar to 
+UUEncode/UUDecode Utility
+.
+</summary>
+</member>
+<member name="P:Example.My.Resources.CmdResources.BadSwitches">
+<summary>
+  Looks up a localized string similar to UUEncode Error: /e and /d are mutually exclusive.
+.
+</summary>
+</member>
+<member name="P:Example.My.Resources.CmdResources.FileNotFound">
+<summary>
+  Looks up a localized string similar to UUEncode Error: File &apos;{0}&apos; not found.
+.
+</summary>
+</member>
+<member name="P:Example.My.Resources.CmdResources.HelpText">
+<summary>
+  Looks up a localized string similar to    Syntax: UUEncode /? | [/e | /d] inFilename outFilename
+
+   Switches:
+         /?                  Displays this help.
+         /e                  Encode a file (the default)
+         /d                  Decode a file
+         /s:&lt;size&gt;      Encode/decode in &lt;size&gt; blocks.
+   Parameters:
+         inFileName    The file to be encoded/decoded.
+         outFilename   The encoded/decoded file to be created.
+.
+</summary>
+</member>
+<member name="P:Example.My.Resources.CmdResources.IOException">
+<summary>
+  Looks up a localized string similar to An input/output exception occurred..
+</summary>
+</member>
+<member name="P:Example.My.Resources.CmdResources.ProgressDecodedMsg">
+<summary>
+  Looks up a localized string similar to Decoded {0:N0} characters...                                       .
+</summary>
+</member>
+<member name="P:Example.My.Resources.CmdResources.ProgressEncodedMsg">
+<summary>
+  Looks up a localized string similar to Encoded {0:N0} bytes...               .
+</summary>
+</member>
+<member name="P:Example.My.Resources.CmdResources.SecurityException">
+<summary>
+  Looks up a localized string similar to You don&apos;t have permission to {0}..
+</summary>
+</member>
+<member name="P:Example.My.Resources.CmdResources.SuccessDecodedMsg">
+<summary>
+  Looks up a localized string similar to Successfully decoded {0} to {1}..
+</summary>
+</member>
+<member name="P:Example.My.Resources.CmdResources.SuccessEncodedMsg">
+<summary>
+  Looks up a localized string similar to Successfully encoded {0} to {1}..
+</summary>
+</member>
+</members>
+</doc>
